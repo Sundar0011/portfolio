@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla+Tamil+Upright:wght@400;700&family=Nanum+Gothic&family=New+Amsterdam&family=Orbitron:wght@400..900&family=Rubik+Mono+One&family=Stylish&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Karla+Tamil+Upright:wght@400;700&family=Nanum+Gothic&family=New+Amsterdam&family=Orbitron:wght@400..900&family=Rubik+Dirt&family=Rubik+Mono+One&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Prosto+One&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,4 +9,5 @@
 
 *{
     padding: 2px;
+    background-color: black;
 }
