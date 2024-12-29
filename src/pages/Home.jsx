@@ -5,7 +5,7 @@ import WelcomeImg from '../components/WelcomeImg';
 
 const Home = () => {
   return (
-    <div className=' h-screen mt-5'>
+    <div className=' h-auto mt-5'>
       <div className=' fixed top-0 left-0 w-full z-50'>
       <Navbar/>
       </div>
