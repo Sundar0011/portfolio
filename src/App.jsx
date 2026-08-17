@@ -8,7 +8,7 @@ import Contact from "./pages/Contact";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
-
+//commited by sundar0011
 function App() {
   useEffect(() => {
     AOS.init({
