@@ -2,7 +2,7 @@ import React from 'react';
 import HeroContent from '../components/HeroContent';
 import Navbar from '../components/Navbar';
 import WelcomeImg from '../components/WelcomeImg';
-//test
+//test commit for tesing prupose
 const Home = () => {
   return (
     <div className='h-auto w-auto flex justify-center items-center mt-10'>
